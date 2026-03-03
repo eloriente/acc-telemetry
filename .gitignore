@@ -1,0 +1,44 @@
+# =======================
+# Python
+# =======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+*.whl
+
+# Python cache
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+
+# =======================
+# IntelliJ IDEA
+# =======================
+.idea/
+*.iml
+*.iws
+out/
+
+# =======================
+# OS files
+# =======================
+.DS_Store
+Thumbs.db
